@@ -38,17 +38,10 @@ BiocManager::install(c("TCGAbiolinks", "SummarizedExperiment", "edgeR", "limma",
 
 
 ## Usage
-
-1. Set your working directory:
-
-
-setwd("/path/to/your/GBM_Project")
+Run the main script:
 
 
-2. Run the main script:
-
-
-gbm_analysis.R: 
+gbm_analysis.R: https://github.com/Derleen123/Glioblastoma-Multiforme-GBM-RNA-Seq-data-analysis/blob/main/gbm_analysis.R
 
 
 ## Workflow
